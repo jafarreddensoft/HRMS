@@ -1,0 +1,702 @@
+[{
+  "_id": {
+    "$oid": "651d5809e77f0c5e5e0ed734"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed725",
+  "name": "Accountant",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:05:37.669Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:18:17.695Z"
+  },
+  "departmentName": "Finance and Accounting"
+},
+{
+  "_id": {
+    "$oid": "651d5809e77f0c5e5e0ed735"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed725",
+  "name": "Financial Analyst",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:05:43.815Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:18:17.697Z"
+  },
+  "departmentName": "Finance and Accounting"
+},
+{
+  "_id": {
+    "$oid": "651d5809e77f0c5e5e0ed736"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed725",
+  "name": "Controller",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:05:52.277Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:18:17.698Z"
+  },
+  "departmentName": "Finance and Accounting"
+},
+{
+  "_id": {
+    "$oid": "651d5809e77f0c5e5e0ed737"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed725",
+  "name": "Chief Financial Officer (CFO)",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:05:57.324Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:18:17.699Z"
+  },
+  "departmentName": "Finance and Accounting"
+},
+{
+  "_id": {
+    "$oid": "651d5809e77f0c5e5e0ed738"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed725",
+  "name": "Auditor",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:01.197Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:18:17.699Z"
+  },
+  "departmentName": "Finance and Accounting"
+},
+{
+  "_id": {
+    "$oid": "651d5886e77f0c5e5e0ed739"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed726",
+  "name": "HR Assistant",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:05.345Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:20:22.370Z"
+  },
+  "departmentName": "Human Resources"
+},
+{
+  "_id": {
+    "$oid": "651d5886e77f0c5e5e0ed73a"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed726",
+  "name": "HR Generalist",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:11.555Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:20:22.746Z"
+  },
+  "departmentName": "Human Resources"
+},
+{
+  "_id": {
+    "$oid": "651d5886e77f0c5e5e0ed73b"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed726",
+  "name": "HR Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:17.144Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:20:22.749Z"
+  },
+  "departmentName": "Human Resources"
+},
+{
+  "_id": {
+    "$oid": "651d5886e77f0c5e5e0ed73c"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed726",
+  "name": "Recruitment Specialist",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:22.165Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:20:22.751Z"
+  },
+  "departmentName": "Human Resources"
+},
+{
+  "_id": {
+    "$oid": "651d5886e77f0c5e5e0ed73d"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed726",
+  "name": "Training and Development Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:25.767Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:20:22.753Z"
+  },
+  "departmentName": "Human Resources"
+},
+{
+  "_id": {
+    "$oid": "651d58fbe77f0c5e5e0ed73e"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed727",
+  "name": "IT Support Specialist",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:30.884Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:22:19.503Z"
+  },
+  "departmentName": "Information Technology"
+},
+{
+  "_id": {
+    "$oid": "651d58fbe77f0c5e5e0ed73f"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed727",
+  "name": "Systems Administrator",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:34.136Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:22:19.506Z"
+  },
+  "departmentName": "Information Technology"
+},
+{
+  "_id": {
+    "$oid": "651d58fbe77f0c5e5e0ed740"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed727",
+  "name": "Software Developer",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:38.221Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:22:19.507Z"
+  },
+  "departmentName": "Information Technology"
+},
+{
+  "_id": {
+    "$oid": "651d58fbe77f0c5e5e0ed741"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed727",
+  "name": "IT Project Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:41.553Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:22:19.507Z"
+  },
+  "departmentName": "Information Technology"
+},
+{
+  "_id": {
+    "$oid": "651d58fbe77f0c5e5e0ed742"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed727",
+  "name": "Chief Information Officer (CIO)",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:44.504Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:22:19.508Z"
+  },
+  "departmentName": "Information Technology"
+},
+{
+  "_id": {
+    "$oid": "651d5979e77f0c5e5e0ed743"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed724",
+  "name": "Sales Representative / Sales Executive",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:48.409Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:24:25.641Z"
+  },
+  "departmentName": "Sales and Marketing"
+},
+{
+  "_id": {
+    "$oid": "651d5979e77f0c5e5e0ed744"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed724",
+  "name": "Sales Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:06:59.842Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:24:25.643Z"
+  },
+  "departmentName": "Sales and Marketing"
+},
+{
+  "_id": {
+    "$oid": "651d5979e77f0c5e5e0ed745"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed724",
+  "name": "Marketing Coordinator",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:03.543Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:24:25.644Z"
+  },
+  "departmentName": "Sales and Marketing"
+},
+{
+  "_id": {
+    "$oid": "651d5979e77f0c5e5e0ed746"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed724",
+  "name": "Marketing Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:08.058Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:24:25.644Z"
+  },
+  "departmentName": "Sales and Marketing"
+},
+{
+  "_id": {
+    "$oid": "651d5979e77f0c5e5e0ed747"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed724",
+  "name": "Business Development Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:14.402Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:24:25.645Z"
+  },
+  "departmentName": "Sales and Marketing"
+},
+{
+  "_id": {
+    "$oid": "651d59f6e77f0c5e5e0ed748"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed728",
+  "name": "Customer Service Representative",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:18.746Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:26:30.594Z"
+  },
+  "departmentName": "Customer Service / Support"
+},
+{
+  "_id": {
+    "$oid": "651d59f6e77f0c5e5e0ed749"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed728",
+  "name": "Customer Service Supervisor",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:22.709Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:26:30.598Z"
+  },
+  "departmentName": "Customer Service / Support"
+},
+{
+  "_id": {
+    "$oid": "651d59f6e77f0c5e5e0ed74a"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed728",
+  "name": "Customer Success Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:25.947Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:26:30.599Z"
+  },
+  "departmentName": "Customer Service / Support"
+},
+{
+  "_id": {
+    "$oid": "651d59f6e77f0c5e5e0ed74b"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed728",
+  "name": "Technical Support Specialist",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:31.284Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:26:30.600Z"
+  },
+  "departmentName": "Customer Service / Support"
+},
+{
+  "_id": {
+    "$oid": "651d5a41e77f0c5e5e0ed74c"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed729",
+  "name": "Production Worker",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:35.494Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:27:45.078Z"
+  },
+  "departmentName": "Production / Operations"
+},
+{
+  "_id": {
+    "$oid": "651d5a41e77f0c5e5e0ed74d"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed729",
+  "name": "Operations Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:38.535Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:27:45.081Z"
+  },
+  "departmentName": "Production / Operations"
+},
+{
+  "_id": {
+    "$oid": "651d5a41e77f0c5e5e0ed74e"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed729",
+  "name": "Plant Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:45.970Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:27:45.082Z"
+  },
+  "departmentName": "Production / Operations"
+},
+{
+  "_id": {
+    "$oid": "651d5a41e77f0c5e5e0ed74f"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed729",
+  "name": "Quality Control Inspector",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:49.295Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:27:45.082Z"
+  },
+  "departmentName": "Production / Operations"
+},
+{
+  "_id": {
+    "$oid": "651d5a7ae77f0c5e5e0ed750"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed72a",
+  "name": "Research Analyst",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:52.013Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:28:42.929Z"
+  },
+  "departmentName": "Research and Development"
+},
+{
+  "_id": {
+    "$oid": "651d5a7ae77f0c5e5e0ed751"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed72a",
+  "name": "Product Developer",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:55.048Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:28:42.931Z"
+  },
+  "departmentName": "Research and Development"
+},
+{
+  "_id": {
+    "$oid": "651d5a7ae77f0c5e5e0ed752"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed72a",
+  "name": "R&D Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:07:59.398Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:28:42.931Z"
+  },
+  "departmentName": "Research and Development"
+},
+{
+  "_id": {
+    "$oid": "651d5b8fe77f0c5e5e0ed75d"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed72f",
+  "name": "Administrative Assistant",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:02.778Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:33:19.108Z"
+  },
+  "departmentName": "Administration and Office Management"
+},
+{
+  "_id": {
+    "$oid": "651d5b8fe77f0c5e5e0ed75e"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed72f",
+  "name": "Office Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:06.220Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:33:19.110Z"
+  },
+  "departmentName": "Administration and Office Management"
+},
+{
+  "_id": {
+    "$oid": "651d5bbfe77f0c5e5e0ed75f"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed730",
+  "name": "Training Coordinator",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:10.075Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:34:07.918Z"
+  },
+  "departmentName": "Training and Development"
+},
+{
+  "_id": {
+    "$oid": "651d5bbfe77f0c5e5e0ed760"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed730",
+  "name": "Learning Development Specialist",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:16.659Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:34:07.922Z"
+  },
+  "departmentName": "Training and Development"
+},
+{
+  "_id": {
+    "$oid": "651d5c02e77f0c5e5e0ed763"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed732",
+  "name": "Marketing Assistant",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:19.248Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:35:14.368Z"
+  },
+  "departmentName": "Marketing"
+},
+{
+  "_id": {
+    "$oid": "651d5c02e77f0c5e5e0ed764"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed732",
+  "name": "Brand Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:21.873Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:35:14.370Z"
+  },
+  "departmentName": "Marketing"
+},
+{
+  "_id": {
+    "$oid": "651d5c1de77f0c5e5e0ed765"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed733",
+  "name": "Product Manager",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:25.112Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:35:41.016Z"
+  },
+  "departmentName": "Product Management"
+},
+{
+  "_id": {
+    "$oid": "651d5c1de77f0c5e5e0ed766"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "departmentId": "651d56b2e77f0c5e5e0ed733",
+  "name": "Product Owner",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-09T15:08:28.938Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:35:41.019Z"
+  },
+  "departmentName": "Product Management"
+}]

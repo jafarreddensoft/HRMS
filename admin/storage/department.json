@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed724"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Sales and Marketing",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.838Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed725"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Finance and Accounting",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.841Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed726"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Human Resources",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.841Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed727"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Information Technology",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.842Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.842Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed728"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Customer Service / Support",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.843Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed729"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Production / Operations",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.843Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed72a"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Research and Development",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.844Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed72f"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Administration and Office Management",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.846Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed730"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Training and Development",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.847Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.847Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed732"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Marketing",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.848Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651d56b2e77f0c5e5e0ed733"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "name": "Product Management",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-04T12:12:34.849Z"
+  },
+  "created_at": {
+    "$date": "2023-10-04T12:12:34.849Z"
+  }
+}]

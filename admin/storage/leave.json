@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "651ea4c579862d0a6f0f9702"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "leaveName": "Casual Leave",
+  "paidLeave": "Paid",
+  "effectiveAfter": "6",
+  "effectiveAfterDate": "month",
+  "leaveSpanFromDate": "Thu Oct 05 2023 17:26:20 GMT+0530 (India Standard Time)",
+  "leaveSpanToDate": "Thu Oct 05 2023 17:26:20 GMT+0530 (India Standard Time)",
+  "leaveFinancialYear": "true",
+  "leaveCarry": "false",
+  "leaveCurryFwdLimit": null,
+  "leaveCncashment": null,
+  "leaveCncashmentLimit": null,
+  "leaveApplicable": "[{\"id\":\"Male\",\"name\":\"Male\"},{\"id\":\"Female\",\"name\":\"Female\"},{\"id\":\"Other\",\"name\":\"Other\"}]",
+  "leaveApplicableData": "Male,Female,Other",
+  "MaritalStatus": "[{\"id\":\"Single\",\"name\":\"Single\"},{\"id\":\"Married\",\"name\":\"Married\"},{\"id\":\"Widowed\",\"name\":\"Widowed\"},{\"id\":\"Divorcee\",\"name\":\"Divorcee\"}]",
+  "MaritalStatusData": "Single,Married,Widowed,Divorcee",
+  "leaveDepartment": "all",
+  "location": "yes",
+  "leaveDesignation": "all",
+  "leaveSandwitch": "no",
+  "leaveDuration": "[\"Full Day\",\"Half Day\"]",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-05T11:57:57.660Z"
+  },
+  "created_at": {
+    "$date": "2023-10-05T11:57:57.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "651ea4f879862d0a6f0f9703"
+  },
+  "company_id": "6502f4ebe32080f2b1034ed2",
+  "leaveName": "Medical Leave",
+  "paidLeave": "Paid",
+  "effectiveAfter": "6",
+  "effectiveAfterDate": "month",
+  "leaveSpanFromDate": "Thu Oct 05 2023 17:28:07 GMT+0530 (India Standard Time)",
+  "leaveSpanToDate": "Thu Oct 05 2023 17:28:07 GMT+0530 (India Standard Time)",
+  "leaveFinancialYear": "true",
+  "leaveCarry": "false",
+  "leaveCurryFwdLimit": null,
+  "leaveCncashment": null,
+  "leaveCncashmentLimit": null,
+  "leaveApplicable": "[{\"id\":\"Male\",\"name\":\"Male\"},{\"id\":\"Female\",\"name\":\"Female\"},{\"id\":\"Other\",\"name\":\"Other\"}]",
+  "leaveApplicableData": "Male,Female,Other",
+  "MaritalStatus": "[{\"id\":\"Single\",\"name\":\"Single\"},{\"id\":\"Married\",\"name\":\"Married\"},{\"id\":\"Widowed\",\"name\":\"Widowed\"},{\"id\":\"Divorcee\",\"name\":\"Divorcee\"}]",
+  "MaritalStatusData": "Single,Married,Widowed,Divorcee",
+  "leaveDepartment": "all",
+  "location": "yes",
+  "leaveDesignation": "all",
+  "leaveSandwitch": "no",
+  "leaveDuration": "[\"Full Day\",\"Half Day\"]",
+  "status": "A",
+  "session": "",
+  "ip_address": "115.246.138.130",
+  "updated_at": {
+    "$date": "2023-10-05T11:58:48.535Z"
+  },
+  "created_at": {
+    "$date": "2023-10-05T11:58:48.535Z"
+  }
+}]
